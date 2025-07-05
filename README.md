@@ -24,7 +24,7 @@
 2. Type prompts to manage your files, such as "Delete all files with the text files" or "Move all images to a folder named 'Images'".
 3. The AI model will understand your prompts and perform the actions.
 
-   **Warninf this sometime make mistakes, may delete important files,Be careful**
+   **Warning this sometime make mistakes, may delete important files,Be careful**
 
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
