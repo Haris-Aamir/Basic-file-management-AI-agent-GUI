@@ -15,7 +15,7 @@
 - Ollama: For running the AI model
 
 **Installation**
-1. Clone the repository: git clone https://github.com/your-username/Mini-Chat-App.git
+1. Clone the repository
 2. Install the required libraries: pip install tk
 3. Run the application: python app.py
 
